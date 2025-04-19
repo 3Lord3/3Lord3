@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark" alt="roadmap.sh"/></a>
 [![roadmap.sh](https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark)](https://roadmap.sh)
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/3Lord3?theme=dark&font=Pathway%20Gothic%20One))](https://leetcode.com/3Lord3)
