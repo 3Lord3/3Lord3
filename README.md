@@ -9,10 +9,8 @@ I am an entry-level Frontend developer from Russia
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
 [![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)](https://pnpm.io)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=3Lord3&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=3Lord3&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-[![roadmap.sh](https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark&roadmaps=react%2Ctypescript)](https://roadmap.sh)<br/>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/3Lord3?theme=dark&font=Pathway%20Gothic%20One)](https://leetcode.com/3Lord3)
-
-[![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](https://google.com)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3Lord3&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/3Lord3?theme=dark&font=Pathway%20Gothic%20One)](https://leetcode.com/3Lord3)<br/>
+[![roadmap.sh](https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark&roadmaps=react%2Ctypescript)](https://roadmap.sh)
