@@ -11,4 +11,4 @@ I am an entry-level Frontend developer from Russia
 ![](https://github-readme-stats.vercel.app/api?username=3Lord3&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3Lord3&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/3Lord3?theme=dark&font=Pathway%20Gothic%20One)](https://leetcode.com/3Lord3)<br/>
-[![roadmap.sh](https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark&roadmaps=react%2Cjavascript%2Ctypescript)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67def9ad8342031660f9012e?variant=dark&roadmaps=frontend%2Cjavascript%2Cjavascript%2Creact%2Ctypescript)](https://roadmap.sh)
