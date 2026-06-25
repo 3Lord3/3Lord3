@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an entry-level Frontend developer from Russia
+I am a Frontend developer from Russia
 
 # 💻 Tech Stack:
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
